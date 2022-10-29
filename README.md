@@ -9,6 +9,8 @@ I'm developer back end
 
 ##
 
+<h4 align="left">Languages and Tools:</h4>
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="40" height="40"/>&nbsp;
@@ -19,6 +21,8 @@ I'm developer back end
 </div>
 
 ---
+
+<h4 align="left">Social media:</h4>
 
 <div id="badges">
   <a href="https://www.instagram.com/davisantos.g/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
