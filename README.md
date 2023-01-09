@@ -32,13 +32,4 @@ I'm developer back end
  </div>
  
  ---
- <table style = "border: 0px solid;">
-  <tr>
-    <td>
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaviGuarda&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-    </td>
-    <td>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviGuarda&layout=compact&langs_count=7&theme=highcontrast"/>
-    </td>
-  </tr>
-  </table>
+ 
