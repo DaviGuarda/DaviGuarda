@@ -42,5 +42,3 @@ I'm developer back end
     </td>
   </tr>
   </table>
-  
-  ![snake gif](https://github.com/DaviGuarda/DaviGuarda/blob/output/github-contribution-grid-snake.svg)
