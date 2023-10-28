@@ -4,7 +4,7 @@
 
 I'm developer back end
 
-- 📚 Studying Systems Development
+- 📚 Systems Development Technician
 
 ##
 
