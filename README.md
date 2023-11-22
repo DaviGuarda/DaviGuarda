@@ -2,7 +2,7 @@
 
 # 💻 Hello, welcome to my GitHub!
 
-I'm developer back end
+I'm back end developer
 
 - 📚 Systems Development Technician
 
